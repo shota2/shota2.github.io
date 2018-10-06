@@ -3,10 +3,10 @@ layout: default
 title: Hank Quinlan, Horrible Cop
 ---
 <div class="blurb">
-	<h1>Hello, I'm Shota Ichihashi</h1>
+	<h1><font size="1">text Hello, I'm Shota Ichihashi</font></h1>
 	<br>
 	<!--<img src="https://progate.com/images/html/beginner/wanko.jpg">-->
-	<img src="picture/profileSmall.jpg" alt="hi" class="inline" width = "1000"/>
+	<img src="picture/profileSmall.jpg" alt="hi" class="inline" />
 	<br>
 	<p>I'm a Senior Economist at the Bank of Canada. <br>
 My research interests microeconomic theory and the economics of the Internet.
