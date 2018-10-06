@@ -6,7 +6,7 @@ title: Hank Quinlan, Horrible Cop
 	<h1>Hello, I'm Shota Ichihashi</h1>
 	<br>
 	<!--<img src="https://progate.com/images/html/beginner/wanko.jpg">-->
-	<img src="picture/profile.jpg" alt="hi" class="inline" width = "100"/>
+	<img src="picture/profile.jpg" alt="hi" class="inline" width = "10000"/>
 	<br>
 	<p>I'm a Senior Economist at the Bank of Canada. <br>
 My research interests microeconomic theory and the economics of the Internet.
