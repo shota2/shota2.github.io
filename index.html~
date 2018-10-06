@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Shota Ichihashi
 ---
 <div class="blurb">
 	<h1>Hello, I'm Shota Ichihashi</h1>
@@ -10,6 +10,7 @@ title: Hank Quinlan, Horrible Cop
 	<br>
 
 	<p>I'm a Senior Economist at the Bank of Canada. <br>
-		My research interests microeconomic theory and the economics of the Internet.
+	My research interests are microeconomic theory and the economics of the Internet.<br>
+	Contact: <a href="https://google.com">To Google</a>
 	</p>
 </div><!-- /.blurb -->
