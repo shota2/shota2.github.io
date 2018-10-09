@@ -43,6 +43,11 @@ ul.posts li {
     list-style: none;
 }
 
+
+li{
+	  margin: 10px 0;
+  }
+
 div.orderedlist li {
 	  margin-top: 1.5em;
   }
