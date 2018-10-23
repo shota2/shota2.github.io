@@ -1,7 +1,8 @@
 div {
 	   word-wrap: break-word;
-	      width: 100px;
+	      width: 50px;
 	  }
+
 dy {
     margin: 60px auto;
     width: 70%;
