@@ -7,7 +7,13 @@ title: Research
 	<p>
 	<ul>
 		<li><em><a href="online.pdf">Online Privacy and Information Disclosure by Consumers</a></em>
-	  		Abstract:  
+
+	  		Abstract:  I study the welfare and price implications of consumer privacy.
+A consumer discloses information to a multi-product seller, which learns about his preferences, sets prices, and makes  product recommendations. 
+While the consumer benefits from accurate product recommendations, the seller may use the information to price discriminate.
+I show that the seller prefers to commit to not price discriminate to encourage information disclosure.
+However, this commitment hurts the consumer, who could be better off by precommitting to withhold some information.
+In contrast to single-product models, total surplus may be lower if the seller is able to price discriminate.
 		</li> 
 
 		<li><em><a href="limiting.pdf">Limiting Sender's Information in Bayesian Persuasion</a> </em>(R&R from Games and Economic Behavior) </li> 
