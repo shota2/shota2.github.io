@@ -1,3 +1,7 @@
+div {
+	   word-wrap: break-word;
+	      width: 100px;
+	  }
 
 dy {
     margin: 60px auto;
