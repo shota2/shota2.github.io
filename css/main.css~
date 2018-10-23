@@ -1,6 +1,7 @@
 div {
 	   word-wrap: break-word;
 	      width: 1600px;
+		  margin-left: 50px;
 	  }
 
 dy {
@@ -34,7 +35,6 @@ p {
     color: #333;
 	text-align: justify;
 	text-justify: inter-word;
-	 margin-left: 80px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
