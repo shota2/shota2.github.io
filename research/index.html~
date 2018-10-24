@@ -8,7 +8,8 @@ title: Research
 	<ul>
 		<li><em><a href="online.pdf">Online Privacy and Information Disclosure by Consumers</a></em>
 		<br>
-	  		Abstract:  I study the welfare and price implications of consumer privacy.
+		
+		I study the welfare and price implications of consumer privacy.
 A consumer discloses information to a multi-product seller, which learns about his preferences, sets prices, and makes  product recommendations. 
 While the consumer benefits from accurate product recommendations, the seller may use the information to price discriminate.
 I show that the seller prefers to commit to not price discriminate to encourage information disclosure.
@@ -16,10 +17,12 @@ However, this commitment hurts the consumer, who could be better off by precommi
 In contrast to single-product models, total surplus may be lower if the seller is able to price discriminate.
 		</li> 
 
-		<li><em><a href="limiting.pdf">Limiting Sender's Information in Bayesian Persuasion</a> </em>(R&R from Games and Economic Behavior) 
+		<li><em><a href="limiting.pdf">Limiting Sender's Information in Bayesian Persuasion</a> </em>
+		<br>	
+		(R&R from Games and Economic Behavior) 
 		<br>
-		<br>
-			This paper studies how the outcome of Bayesian persuasion depends on Sender's information.
+		
+		This paper studies how the outcome of Bayesian persuasion depends on Sender's information.
 	I study a game in which, prior to Sender's information disclosure, Designer can restrict the most informative signal that Sender can generate.
 	In the binary action case, I consider arbitrary preferences of Designer and characterize all equilibrium outcomes.
 	As a corollary, I derive an information restriction that maximizes Receiver's payoffs: Whenever Designer can increase Receiver's payoffs by restricting Sender's information, the Receiver-optimal way coincides with an equilibrium of the game in which Receiver persuades Sender.
@@ -27,7 +30,8 @@ In contrast to single-product models, total surplus may be lower if the seller i
 
 	<li><em><a href="timing.pdf">When to Hold an Auction?</a></em>(with Isaias N. Chaves)
 	<br>
- We study the optimal timing of auctions when bidders can arrive and depart stochastically over time.
+	
+	We study the optimal timing of auctions when bidders can arrive and depart stochastically over time.
  First, we show that a revenue-maximizing seller holds auctions too late  or too early, relative to a surplus-maximizing planner, depending on whenever virtual values (censored at 0) are more or less right-skewed than true values.
 In particular, revenue-maximizing sellers typically hold auctions inefficiently late.
 Second, we prove that, by restricting herself to ex ante optimal deadlines, the seller may waste an arbitrarily large fraction of the revenue from the optimal stopping rule.
@@ -36,11 +40,12 @@ Dynamically responding to changes in the bidder pool is therefore essential.
 
 <li><em><a href="disclosure.pdf">Consumer-Optimal Disclosure with Costly Information Acquisition</a></em> 
 <br>
- We study the optimal timing of auctions when bidders can arrive and depart stochastically over time.
- First, we show that a revenue-maximizing seller holds auctions too late  or too early, relative to a surplus-maximizing planner, depending on whenever virtual values (censored at 0) are more or less right-skewed than true values.
-In particular, revenue-maximizing sellers typically hold auctions inefficiently late.
-Second, we prove that, by restricting herself to ex ante optimal deadlines, the seller may waste an arbitrarily large fraction of the revenue from the optimal stopping rule.
-Dynamically responding to changes in the bidder pool is therefore essential.
+
+I study the question of how much product information should be available to consumers.
+A monopolist sells one unit of product.
+The consumer is initially uninformed of the product value but can incur costs to observe a noisy signal of his valuation.
+I show that if it is costly to acquire information, consumer surplus can be increasing in the informativeness of the signal, because the seller sets a lower price to deter the consumer's learning.
+I also show that there is a positive level of information acquisition cost that maximizes both consumer and total surplus.
 
 
 </li> 
