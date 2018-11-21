@@ -17,9 +17,7 @@ However, this commitment hurts the consumer, who could be better off by precommi
 In contrast to single-product models, total surplus may be lower if the seller is able to price discriminate.
 		</li> 
 
-		<li><em><a href="limiting.pdf">Limiting Sender's Information in Bayesian Persuasion</a> </em>
-		<br>	
-		(R&R from Games and Economic Behavior) 
+		<li><em><a href="limiting.pdf">Limiting Sender's Information in Bayesian Persuasion</a> </em> (R&R at Games and Economic Behavior) 
 		<br>
 		
 		This paper studies how the outcome of Bayesian persuasion depends on Sender's information.
@@ -28,7 +26,7 @@ In contrast to single-product models, total surplus may be lower if the seller i
 	As a corollary, I derive an information restriction that maximizes Receiver's payoffs: Whenever Designer can increase Receiver's payoffs by restricting Sender's information, the Receiver-optimal way coincides with an equilibrium of the game in which Receiver persuades Sender.
 </li> 
 
-	<li><em><a href="timing.pdf">When to Hold an Auction?</a></em>(with Isaias N. Chaves)
+<li><em><a href="timing.pdf">When to Hold an Auction?</a></em>(with <a href="https://isachavesv.github.io/">Isaias N. Chaves</a>)
 	<br>
 	
 	We study the optimal timing of auctions when bidders can arrive and depart stochastically over time.
@@ -54,9 +52,9 @@ I also show that there is a positive level of information acquisition cost that 
 
 	<h2>Work in Progress</h2>
 	<ul>
-		<li><em>Regulatory Disclosure in Bayesian Persuasion </em>(with Kota Murayama) </li> 
-		<li><em>Big Data and the Divergence of Opinion </em>(with Ye Li) </li> 
-		<li><em>Fixing the Participation Curse: Sequential Search with Mechanism Design </em>(with Isaias N. Chaves) </li> 
+		<li><em>Regulatory Disclosure in Persuasion </em>(with Kota Murayama) </li> 
+		<li><em>Big Data and the Divergence of Opinion </em>(with <a href="http://yeli-macrofinance.com/">Ye Li</a>) </li> 
+		<li><em>Fixing the Participation Curse: Sequential Search with Mechanism Design </em>(with <a href="https://isachavesv.github.io/">Isaias N. Chaves</a>) </li> 
 	</ul>
 
 
