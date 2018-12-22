@@ -1,6 +1,6 @@
 div {
 	   word-wrap: break-word;
-		  width: 2000px;
+		  width: 1400px;
 		  margin-left: 50px;
 	  }
 
