@@ -35,7 +35,7 @@ p {
     line-height: 1.4em;
     color: #333;
 	text-align: justify;
-	text-justify: inter-word;
+	text-justify:inter-ideograph; 
 }
 footer {
     border-top: 1px solid #d5d5d5;
