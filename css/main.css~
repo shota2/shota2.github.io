@@ -1,6 +1,7 @@
 div {
 	   word-wrap: break-word;
-	      width: 100px;
+		  width: 100px;
+		  /*width: 100%; max-width: 600px;*/
 		  margin-left: 50px;
 	  }
 
