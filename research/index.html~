@@ -7,14 +7,15 @@ title: Research
 	<p>
 	<ul>
 		
-		<li><em>Competing Intermediaries in Markets for Personal Data</em>
+		<li><em>Competing Intermediaries in Markets for Personal Data</em> (Draft coming soon!)
 		<br>
 
-		I study how the market structure of data intermediaries---technology companies and data brokers that collect and distribute personal data---affects consumer surplus and the welfare of economic agents. 
+		I study how the market structure of data intermediaries&mdash;technology companies and data brokers that collect and distribute personal data&mdash;affects consumer surplus and the welfare of economic agents. 
 		I consider a model in which intermediaries obtain data from consumers and sell them to a firm. 
 		Intermediaries have to compensate consumers, who are negatively affected by the firm’s use of personal data.
 		I show that intermediaries have no incentive to compete over personal data: If intermediaries compete by offering high compensations to consumers, consumers would provide their data to multiple intermediaries because data are non-rivalrous; however, this lowers the price of data in the downstream market and hurts intermediaries.
-	   	The lack of competition among intermediaries leads to an equilibrium where a single intermediary acquires personal data at the minimum level of compensation. I also consider a number of extensions including the case in which the firm’s use of personal data positively affects consumers, in which case competition among intermediaries improves consumer welfare.fdw;
+		The lack of competition among intermediaries leads to an equilibrium where a single intermediary acquires personal data at the minimum level of compensation.
+	   	I also consider a number of extensions including the case in which the firm’s use of personal data positively affects consumers, in which case competition among intermediaries improves consumer welfare.
 		</li> 
 
 
