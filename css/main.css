@@ -1,7 +1,6 @@
 div {
 	   word-wrap: break-word;
-		  width: 1500px;
-		  /*width: 100%; max-width: 600px;*/
+		  width: 2000px;
 		  margin-left: 50px;
 	  }
 
@@ -35,7 +34,7 @@ p {
     line-height: 1.6em;
     color: #333;
 	text-align: justify;
-	text-justify:inter-word;
+	text-justify: inter-word;
 }
 footer {
     border-top: 1px solid #d5d5d5;
