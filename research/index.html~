@@ -2,6 +2,9 @@
 layout: default
 title: Research
 ---
+
+
+<div class="blurb">
 	<h2>Papers</h2>
 
 	<p>
@@ -61,13 +64,14 @@ I also show that there is a positive level of information acquisition cost that 
 </li> 
 	</ul>
 	
+</div><!-- /.blurb -->
 
-	<h2>Work in Progress</h2>
-	<ul>
-		<li><em>Regulatory Disclosure in Persuasion </em>(with Kota Murayama) </li> 
-		<li><em>Big Data and the Divergence of Opinion </em>(with <a href="http://yeli-macrofinance.com/">Ye Li</a>) </li> 
-		<li><em>Fixing the Participation Curse: Sequential Search with Mechanism Design </em>(with <a href="https://isachavesv.github.io/">Isaias N. Chaves</a>) </li> 
-	</ul>
+	<!--<h2>Work in Progress</h2>-->
+	<!--<ul>-->
+		<!--<li><em>Regulatory Disclosure in Persuasion </em>(with Kota Murayama) </li> -->
+		<!--<li><em>Big Data and the Divergence of Opinion </em>(with <a href="http://yeli-macrofinance.com/">Ye Li</a>) </li> -->
+		<!--<li><em>Fixing the Participation Curse: Sequential Search with Mechanism Design </em>(with <a href="https://isachavesv.github.io/">Isaias N. Chaves</a>) </li> -->
+	<!--</ul>-->
 
 
 	</p>
