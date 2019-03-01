@@ -42,7 +42,7 @@ In contrast to single-product models, total surplus may be lower if the seller i
 
 <li><em><a href="timing.pdf">Auction Timing and Market Thickness</a></em> (with <a href="https://isachavesv.github.io/">Isaias N. Chaves</a>)
 	<br>
-An auctioneer faces a pool of potential bidders that changes over time. She can delay the auction at a cost, in the hopes of having a thicker market later on. We identify a property of the distribution of bidder values---its "price elasticity"---that governs the distortions caused by revenue maximization: a seller inefficiently over-invests in market thickness (delays the auction excessively) if that elasticity is increasing, and under-invests if it is decreasing. We also show that dynamically responding to changes in the bidder pool is essential: committing to delay until an optimal deadline can waste most of the achievable revenue.
+An auctioneer faces a pool of potential bidders that changes over time. She can delay the auction at a cost, in the hopes of having a thicker market later on. We identify a property of the distribution of bidder values&mdash its "price elasticity"&mdash that governs the distortions caused by revenue maximization: a seller inefficiently over-invests in market thickness (delays the auction excessively) if that elasticity is increasing, and under-invests if it is decreasing. We also show that dynamically responding to changes in the bidder pool is essential: committing to delay until an optimal deadline can waste most of the achievable revenue.
 </li> 
 
 <li><em><a href="disclosure.pdf">Consumer-Optimal Disclosure with Costly Information Acquisition</a></em> 
