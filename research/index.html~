@@ -4,7 +4,6 @@ title: Research
 ---
 
 
-<div class="blurb">
 	<h2>Papers</h2>
 
 	<p>
@@ -41,7 +40,7 @@ In contrast to single-product models, total surplus may be lower if the seller i
 	As a corollary, I derive an information restriction that maximizes Receiver's payoffs: Whenever Designer can increase Receiver's payoffs by restricting Sender's information, the Receiver-optimal way coincides with an equilibrium of the game in which Receiver persuades Sender.
 </li> 
 
-<li><em><a href="timing.pdf">When to Hold an Auction?</a></em> (with <a href="https://isachavesv.github.io/">Isaias N. Chaves</a>)
+<li><em><a href="timing.pdf">Auction Timing and Market Thickness</a></em> (with <a href="https://isachavesv.github.io/">Isaias N. Chaves</a>)
 	<br>
 	
 	We study the optimal timing of auctions when bidders can arrive and depart stochastically over time.
@@ -64,7 +63,6 @@ I also show that there is a positive level of information acquisition cost that 
 </li> 
 	</ul>
 		
-</div><!-- /.blurb -->
 
 
 	<!--<h2>Work in Progress</h2>-->
@@ -76,4 +74,3 @@ I also show that there is a positive level of information acquisition cost that 
 
 
 	</p>
-</div><!-- /.blurb -->
