@@ -10,13 +10,12 @@ title: Research
 	<ul>
 		
 		<li><em><a href="data.pdf">Natural Monopoly for Data Intermediaries</a></em> 		<br>
-
-		I study how the market structure of data intermediaries&mdash;technology companies and data brokers that collect and distribute personal data&mdash;affects consumer surplus and the welfare of economic agents. 
-		I consider a model in which intermediaries obtain data from consumers and sell them to a firm. 
-		Intermediaries have to compensate consumers, who are negatively affected by the firm’s use of personal data.
-		I show that intermediaries have no incentive to compete over personal data: If intermediaries compete by offering high compensations to consumers, consumers would provide their data to multiple intermediaries because data are non-rivalrous; however, this lowers the price of data in the downstream market and hurts intermediaries.
-		The lack of competition among intermediaries leads to an equilibrium where a single intermediary acquires personal data at the minimum level of compensation.
-	   	I also consider a number of extensions including the case in which the firm’s use of personal data positively affects consumers, in which case competition among intermediaries improves consumer welfare.
+	I study competition among data intermediaries&mdash;data brokers and technology companies that collect consumer data and sell them to downstream firms.
+	Under the assumption that firms use consumer data to extract rents, consumers have to be compensated for their personal information. 
+	I show that competition among intermediaries fails:
+	If they offer high compensation, consumers would share their data with multiple intermediaries, which lowers the price of the data in the downstream market and hurts intermediaries.
+	I show that this leads to multiple equilibria with different allocations of data among intermediaries.
+	There is a monopoly equilibrium, and equilibrium with a more concentrated allocation of data benefits intermediaries and hurts consumers.
 		</li> 
 
 
@@ -31,7 +30,7 @@ However, this commitment hurts the consumer, who could be better off by precommi
 In contrast to single-product models, total surplus may be lower if the seller is able to price discriminate.
 		</li> 
 
-		<li><em><a href="limiting.pdf">Limiting Sender's Information in Bayesian Persuasion</a> </em> (Acceptance subject to minor revisions at <em>Games and Economic Behavior</em>) 
+		<li><em><a href="limiting.pdf">Limiting Sender's Information in Bayesian Persuasion</a> </em> (Accepted subject to minor revisions at <em>Games and Economic Behavior</em>) 
 		<br>
 		
 		This paper studies how the outcome of Bayesian persuasion depends on Sender's information.
