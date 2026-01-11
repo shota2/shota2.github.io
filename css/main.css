@@ -142,6 +142,16 @@ main {
     font-style: italic;
 }
 
+.paper-list .journal-link {
+    font-style: italic;
+    text-decoration: none;
+}
+
+.paper-list .journal-link:hover {
+    text-decoration: none;
+    color: #666;
+}
+
 .paper-list .status {
     color: #666;
 }
