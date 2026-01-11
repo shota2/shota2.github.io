@@ -156,6 +156,15 @@ main {
     color: #666;
 }
 
+.paper-list .coauthor-link {
+    text-decoration: none;
+}
+
+.paper-list .coauthor-link:hover {
+    text-decoration: none;
+    color: #666;
+}
+
 .paper-list .status {
     color: #666;
 }
