@@ -1,57 +1,215 @@
-div {
-	   word-wrap: break-word;
-		  max-width: 900px;
-		  margin-left: 50px;
-	  }
+/* Base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
-dy {
-    margin: 60px auto;
-    width: 70%;
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    line-height: 1.7;
+    color: #333;
+    background-color: #fff;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+
+/* Header */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    letter-spacing: 0.15em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Navigation */
+nav {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+nav ul {
     list-style: none;
-    font-weight: bold;
+    padding: 0;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+
+nav ul li {
+    display: inline-block;
+    margin: 0 25px;
 }
-a {
+
+nav ul li a {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.85em;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #888;
     text-decoration: none;
-    color: #3633FF;
+    transition: color 0.2s ease;
 }
-a:hover {
+
+nav ul li a:hover,
+nav ul li a.active {
+    color: #333;
+}
+
+/* Main content */
+main {
+    padding: 20px 0;
+}
+
+/* Home page layout */
+.home-content {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+}
+
+.bio {
+    flex: 1;
+}
+
+.bio p {
+    margin-bottom: 1em;
+    font-size: 1.05em;
+    line-height: 1.8;
+}
+
+.bio a {
+    color: #333;
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 2.0em;
-    line-height: 1.7em;
-    color: #333;
-	text-align: justify;
-	text-justify: inter-word;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+
+.bio a:hover {
+    color: #666;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+.profile-photo {
+    flex-shrink: 0;
+}
+
+.profile-photo img {
+    width: 280px;
+    height: auto;
+    display: block;
+}
+
+/* Research page */
+.research-section {
+    margin-bottom: 40px;
+}
+
+.research-section h2 {
+    font-family: Georgia, 'Times New Roman', serif;
     font-size: 1.5em;
+    font-weight: normal;
+    color: #333;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
 }
 
-ul.posts li {
+.paper-list {
     list-style: none;
+    padding: 0;
 }
 
+.paper-list li {
+    margin-bottom: 15px;
+    font-size: 0.95em;
+    line-height: 1.6;
+}
 
-li {
-	  margin: 20px 0;
-  }
+.paper-list a {
+    color: #333;
+    text-decoration: underline;
+}
 
+.paper-list a:hover {
+    color: #666;
+}
+
+.paper-list .journal {
+    font-style: italic;
+}
+
+.paper-list .status {
+    color: #666;
+}
+
+/* Teaching page */
+.teaching-section h2 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+.course {
+    margin-bottom: 30px;
+}
+
+.course h3 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 1.1em;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+
+.course h3 .course-name {
+    color: #555;
+}
+
+.course p {
+    font-size: 1em;
+    line-height: 1.8;
+}
+
+/* Footer */
+footer {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+    text-align: center;
+    font-size: 0.85em;
+    color: #999;
+}
+
+/* Responsive design */
+@media (max-width: 700px) {
+    body {
+        padding: 20px 15px;
+    }
+
+    header h1 {
+        font-size: 1.8em;
+        letter-spacing: 0.1em;
+    }
+
+    nav ul li {
+        margin: 0 15px;
+    }
+
+    .home-content {
+        flex-direction: column-reverse;
+        gap: 30px;
+    }
+
+    .profile-photo {
+        text-align: center;
+    }
+
+    .profile-photo img {
+        width: 200px;
+    }
+}
