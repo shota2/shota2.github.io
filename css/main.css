@@ -149,11 +149,12 @@ main {
 .paper-list .journal-link {
     font-style: italic;
     text-decoration: none;
+    color: teal;
 }
 
 .paper-list .journal-link:hover {
     text-decoration: none;
-    color: #666;
+    color: #006666;
 }
 
 .paper-list .coauthor-link {
